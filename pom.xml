@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.upgrad</groupId>
-	<artifactId>hirewheels</artifactId>
+	<artifactId>HireWheels</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hirewheels</name>
+	<name>HireWheels</name>
 	<description>Project for Driverless Application</description>
 
 	<properties>

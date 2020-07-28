@@ -12,8 +12,9 @@ public class FuelType {
     @Id
     int id;
     @Column( nullable = false)
-    String fuelType;
+    private String fuelType;
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "fuelType")
     List<Vehicle> vehicles;
+
 }
 
